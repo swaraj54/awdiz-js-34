@@ -39,9 +39,9 @@ var isOpen = true
 
 
 
+var age1 = true;
 var age1 = 30;
 var age1 = "30";
-var age1 = true;
 console.log(age1, typeof age1, "age1");
 
 
@@ -52,7 +52,7 @@ console.log(age1, typeof age1, "age1");
 var age = 10;
 //assign;
 console.log(age, "age old");
-age = "hjello"; //re assign
+age = "hello"; //re assign
 console.log(age, "age new");
 
 var age = 20; // re declare
@@ -81,9 +81,9 @@ const number2 = 345;
 console.log(number2, "number 3");
 
         1. Re assign      2. Re declare    3. scope     4. hoisting
-var         yes                yes           global
-let         yes                no            block
-const       no                 no            block
+var         yes                yes           global           yes
+let         yes                no            block            no
+const       no                 no            block            no
 
 
 
