@@ -1,9 +1,10 @@
 Data types - String, number, Boolean, undefined
 varibles - var, let, const
 hositing , scopes
-Hoisting
-Operators - 1. Comparision == , ===, > < >= <= != !==
+Operators - 
+1. Comparision == , ===, > < >= <= != !==
  , 2. Logical  $$ ||
+
 
 var age;
 console.log(age, typeof age, "age");
@@ -26,7 +27,7 @@ Operators - 1. Comparision == , ===, > < >= <= != !==
 
 
 console.log(2 == 4);
-console.log(2 == 2);
+console.log(2 == 2); 
 
 
 
@@ -127,5 +128,5 @@ console.log(a == b && b == c && a == c);
 if all condition are false then only it'll return false 
 
 
-console.log(1 == 2 || 2 == 7 || 234 == 345);
-            // false     false      false
+console.log(1 == 1 || 2 == 7 || 234 == 345);
+            // true     false      false

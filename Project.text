@@ -1,0 +1,58 @@
+Project -
+Roles - 
+User
+Seller
+Admin
+
+Create seperate css file for each page 
+Work on only mobile and laptop view 
+Create A seperate REPO
+
+
+User Pages -
+0. Navbar.html Navbar.css 
+0. Footer.html Footer.css 
+5/02/26
+
+1. Home Page 
+2. Products Category Page
+7/02/26
+
+3. Single Product Page 
+4. Cart Page
+9/02/26
+
+5. WishList page
+6. Payment Page
+11/02/26 
+
+7. Orders Page 
+8. Profile Page view/edit 
+13/02/26
+
+Seller Page 
+1. Home - Dashboard Overview
+2. Add Products 
+15/02/26
+
+3. View Products - Multiple Products
+4. View/edit Single Products
+17/02/26
+
+5. Order Page 
+6. Profile Page
+19/02/26
+
+Admin Page 
+1. Home - User Product Seller Dashboard Overview 
+2. Section 1 Sellers - All Sellers 
+21/02/26
+
+3. Single Seller page - products - orders 
+4. Section 2 User - all users 
+23/02/26
+
+5. Single User page - Orders 
+6. Section 3 Products - all product 
+25/02/26
+
