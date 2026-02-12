@@ -58,7 +58,7 @@ if (age == 18) {
   console.log("You are eligible for DL.");
 } else if (age < 18 || age > 80) {// 0 - 17   81 200
   console.log("You are NOT eligible for DL.");
-}
+} 
 
 
 
