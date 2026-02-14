@@ -125,3 +125,11 @@ for (let i = 0; i <= 200; i++) {
 
 
 Q. Find Count of all even number from give Range, 0 - 200
+
+var count = 0;
+for(var i = 0; i <= 200; i++){
+  if(i % 2 == 0){
+    count++;
+  }
+}
+console.log(count, "- total count")
