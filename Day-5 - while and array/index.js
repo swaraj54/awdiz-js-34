@@ -87,8 +87,8 @@ console.log(myArray[0]);
 console.log(myArray[1]);
 console.log(myArray.length);
 console.log(myArray[myArray.length - 1]);
-console.log(Math.floor(23.4));
-console.log(Math.ceil(23.4));
+console.log(Math.floor(23.4)); 23
+console.log(Math.ceil(23.4)); 24
 if (myArray.length % 2 == 0) {
   console.log(myArray[Math.floor(myArray.length / 2) - 1]);
 } else {
