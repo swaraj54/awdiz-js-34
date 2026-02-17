@@ -145,6 +145,17 @@ middleIndex = 5
 middleElement  = 6
 target == middleElement 6 == 6 true  5
 
+
+
+
+
+
+
+
+
+
+
+
 Object;
 
 var numbers = [1, 2, 3];
