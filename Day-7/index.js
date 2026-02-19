@@ -33,6 +33,12 @@ syntax
 function nameoffunction(para1, para2, para3){
     multiple lines of code
 }
+nameoffunction();
+
+
+
+
+
 
 var number1 = 234;
 var number2 = 456;
@@ -77,7 +83,7 @@ Q by using function return the given number is even or odd
 let number = 233;
 
 const checkOddEven = (number) => {
-  if (number % 2 == 0) {
+  if (number % 2 == 0) { 
     return "its even number.";
   } else {
     return "its odd number";
