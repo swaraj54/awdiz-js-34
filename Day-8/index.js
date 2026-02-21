@@ -24,6 +24,10 @@ Pop
 Shift
 Unshift
 Map
+filter
+reduce 
+
+
 
 Push;
 
@@ -52,6 +56,7 @@ console.log(numbers);
 
 Map
 
+
 let prices = [100, 150, 200];
 let gstAddedPrices = prices.map((element) => element * 1.18);
 console.log(gstAddedPrices, "gstaddedProducts");
@@ -68,6 +73,9 @@ var users = [
 ];
 let activeUsers = users.filter((user) => user.active);
 console.log(activeUsers, "activeUsers");
+
+
+REDUCE 
 
 Sum of numbers
 let numbes = [1, 2, 3, 4, 5];
